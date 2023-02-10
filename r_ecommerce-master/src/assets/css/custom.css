@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800&family=Roboto+Condensed:wght@300;400;700&display=swap");
+@import"TopNavbar.css";
+@import"fontawesome.css";
+@import"SideBarMenu.css";
+@import"common.css";
+@import"button.css";
+
+@import"Footer.css";
+
+form{
+     text-align: center;
+}
+.body-style{
+background-color: #ffffff;
+text-align: center;
+} 
+.slider-conf{
+     background: #ffffff;
+     text-align: center;
+}
+
+.form-product{
+     display: flex;
+     justify-content: space-evenly;
+     align-items: right;
+
+}
+.right-form{
+     display: flex;
+     flex-wrap: wrap;
+     padding: 30px 30px 30px 30px;
+     flex: 50%;
+     justify-content: space-between;
+
+     
+
+}
+.left-form{
+     display: flex;
+     flex-direction: column;
+     padding: 30px 30px 30px 30px;
+     flex: 50%;
+
+
+}
+.right-form2{
+     display: flex;
+     /* flex-direction: column; */
+     flex-wrap: wrap;
+     padding: 30px 30px 30px 30px;
+     flex: 1;
+
+
+}
+
+
+.small-display{
+     display: flex;
+     flex-direction: column;
+     justify-content: space-between;
+     padding: 30px 30px 30px 30px;
+
+
+}
+
+
